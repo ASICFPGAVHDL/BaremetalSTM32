@@ -1,0 +1,3 @@
+C:/Users/Abdes/OneDrive/Desktop/STM32_bare_metal/Source_CODE/SWCled/build/debug/build/CMakeFiles/SWCled.dir
+C:/Users/Abdes/OneDrive/Desktop/STM32_bare_metal/Source_CODE/SWCled/build/debug/build/CMakeFiles/edit_cache.dir
+C:/Users/Abdes/OneDrive/Desktop/STM32_bare_metal/Source_CODE/SWCled/build/debug/build/CMakeFiles/rebuild_cache.dir
